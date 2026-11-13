@@ -1,0 +1,1601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="modularityClass" title="modularityClass" type="integer"/>
+      <attribute id="rawSize" title="rawSize" type="integer"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="rawWeight" title="rawWeight" type="double"/>
+    </attributes>
+    <nodes>
+      <node id="BUTTERCUP" label="BUTTERCUP">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-460.00742476102977" y="314.2852937342192"/>
+      </node>
+      <node id="GRANDFATHER" label="GRANDFATHER">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-252.50609827161225" y="-272.3486880838649"/>
+      </node>
+      <node id="THE KID" label="THE KID">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-391.2356788488364" y="-260.59761298116047"/>
+      </node>
+      <node id="FEZZIK" label="FEZZIK">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-436.75995633988333" y="150.66938620551957"/>
+      </node>
+      <node id="INIGO" label="INIGO">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-311.09284779357847" y="32.871400872331336"/>
+      </node>
+      <node id="WESTLEY" label="WESTLEY">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-652.6387066734554" y="16.532962549676853"/>
+      </node>
+      <node id="HUMPERDINCK" label="HUMPERDINCK">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-346.16099536466913" y="223.75795527759422"/>
+      </node>
+      <node id="VIZZINI" label="VIZZINI">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-404.0215596480728" y="75.34156846910517"/>
+      </node>
+      <node id="RUGEN" label="RUGEN">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-304.1765614649221" y="131.60127110959354"/>
+      </node>
+      <node id="VOICE" label="VOICE">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="64.0526751622827" y="182.8041387275629"/>
+      </node>
+      <node id="YELLIN" label="YELLIN">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="260.9183282201219" y="-44.38207353893574"/>
+      </node>
+      <node id="MAN IN BLACK" label="MAN IN BLACK">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="-661.7803531224524" y="-67.43431029241563"/>
+      </node>
+      <node id="ALBINO" label="ALBINO">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="215.61093035181082" y="59.941619233460486"/>
+      </node>
+      <node id="ANCIENT BOOER" label="ANCIENT BOOER">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="0.44757280323401005" y="399.2208759901978"/>
+      </node>
+      <node id="ASSISTANT BRUTE" label="ASSISTANT BRUTE">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="308.55215003195946" y="11.865493910755916"/>
+      </node>
+      <node id="A WOMAN'S VOICE" label="A WOMAN'S VOICE">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="246.91621187020428" y="131.6801419495958"/>
+      </node>
+      <node id="LITTLE OLD GUY" label="LITTLE OLD GUY">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="173.7141157440962" y="156.33362260775232"/>
+      </node>
+      <node id="MIRACLE MAX" label="MIRACLE MAX">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="147.8883299720861" y="300.36184176622794"/>
+      </node>
+      <node id="VALERIE" label="VALERIE">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="122.14612853167597" y="222.44323562010783"/>
+      </node>
+      <node id="IMPRESSIVE CLERGYMAN" label="IMPRESSIVE CLERGYMAN">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="69.01796430668016" y="292.5314714043406"/>
+      </node>
+      <node id="KING" label="KING">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="80.21214508409699" y="361.3108496649307"/>
+      </node>
+      <node id="QUEEN" label="QUEEN">
+        <attvalues>
+          <attvalue for="modularityClass" value="0"/>
+          <attvalue for="rawSize" value="23"/>
+        </attvalues>
+        <viz:color r="120" g="40" b="89"/>
+        <viz:size value="23"/>
+        <viz:position x="5.789279928580484" y="326.0258783198151"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_30_0" source="BUTTERCUP" target="GRANDFATHER" weight="10">
+        <attvalues>
+          <attvalue for="rawWeight" value="10"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_1" source="BUTTERCUP" target="THE KID" weight="10">
+        <attvalues>
+          <attvalue for="rawWeight" value="10"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_2" source="BUTTERCUP" target="WESTLEY" weight="8.571428571428571">
+        <attvalues>
+          <attvalue for="rawWeight" value="8.571428571428571"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_3" source="BUTTERCUP" target="HUMPERDINCK" weight="8.571428571428571">
+        <attvalues>
+          <attvalue for="rawWeight" value="8.571428571428571"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_4" source="BUTTERCUP" target="INIGO" weight="7.142857142857143">
+        <attvalues>
+          <attvalue for="rawWeight" value="7.142857142857143"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_5" source="BUTTERCUP" target="VIZZINI" weight="7.142857142857143">
+        <attvalues>
+          <attvalue for="rawWeight" value="7.142857142857143"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_6" source="BUTTERCUP" target="FEZZIK" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_7" source="BUTTERCUP" target="RUGEN" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_8" source="BUTTERCUP" target="VOICE" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_9" source="BUTTERCUP" target="MAN IN BLACK" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_10" source="BUTTERCUP" target="ALBINO" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_11" source="BUTTERCUP" target="YELLIN" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_12" source="BUTTERCUP" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_13" source="BUTTERCUP" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_14" source="BUTTERCUP" target="ASSISTANT BRUTE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_15" source="BUTTERCUP" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_16" source="BUTTERCUP" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_17" source="BUTTERCUP" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_18" source="BUTTERCUP" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_19" source="BUTTERCUP" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_20" source="BUTTERCUP" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_21" source="GRANDFATHER" target="THE KID" weight="8.571428571428571">
+        <attvalues>
+          <attvalue for="rawWeight" value="8.571428571428571"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_22" source="GRANDFATHER" target="INIGO" weight="8.571428571428571">
+        <attvalues>
+          <attvalue for="rawWeight" value="8.571428571428571"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_23" source="GRANDFATHER" target="WESTLEY" weight="7.142857142857143">
+        <attvalues>
+          <attvalue for="rawWeight" value="7.142857142857143"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_24" source="GRANDFATHER" target="FEZZIK" weight="7.142857142857143">
+        <attvalues>
+          <attvalue for="rawWeight" value="7.142857142857143"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_25" source="GRANDFATHER" target="HUMPERDINCK" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_26" source="GRANDFATHER" target="VIZZINI" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_27" source="GRANDFATHER" target="VOICE" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_28" source="GRANDFATHER" target="ALBINO" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_29" source="GRANDFATHER" target="RUGEN" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_30" source="GRANDFATHER" target="YELLIN" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_31" source="GRANDFATHER" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_32" source="GRANDFATHER" target="MAN IN BLACK" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_33" source="GRANDFATHER" target="ASSISTANT BRUTE" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_34" source="GRANDFATHER" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_35" source="GRANDFATHER" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_36" source="GRANDFATHER" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_37" source="GRANDFATHER" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_38" source="GRANDFATHER" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_39" source="GRANDFATHER" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_40" source="GRANDFATHER" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_41" source="THE KID" target="WESTLEY" weight="8.571428571428571">
+        <attvalues>
+          <attvalue for="rawWeight" value="8.571428571428571"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_42" source="THE KID" target="INIGO" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_43" source="THE KID" target="VIZZINI" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_44" source="THE KID" target="HUMPERDINCK" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_45" source="THE KID" target="RUGEN" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_46" source="THE KID" target="FEZZIK" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_47" source="THE KID" target="MAN IN BLACK" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_48" source="THE KID" target="ALBINO" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_49" source="THE KID" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_50" source="THE KID" target="VOICE" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_51" source="THE KID" target="YELLIN" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_52" source="THE KID" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_53" source="THE KID" target="ASSISTANT BRUTE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_54" source="THE KID" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_55" source="THE KID" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_56" source="THE KID" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_57" source="THE KID" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_58" source="THE KID" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_59" source="THE KID" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_60" source="FEZZIK" target="INIGO" weight="10">
+        <attvalues>
+          <attvalue for="rawWeight" value="10"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_61" source="FEZZIK" target="VIZZINI" weight="7.142857142857143">
+        <attvalues>
+          <attvalue for="rawWeight" value="7.142857142857143"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_62" source="FEZZIK" target="HUMPERDINCK" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_63" source="FEZZIK" target="VOICE" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_64" source="FEZZIK" target="WESTLEY" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_65" source="FEZZIK" target="YELLIN" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_66" source="FEZZIK" target="MAN IN BLACK" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_67" source="FEZZIK" target="RUGEN" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_68" source="FEZZIK" target="ALBINO" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_69" source="FEZZIK" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_70" source="FEZZIK" target="ASSISTANT BRUTE" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_71" source="FEZZIK" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_72" source="FEZZIK" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_73" source="FEZZIK" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_74" source="FEZZIK" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_75" source="FEZZIK" target="IMPRESSIVE CLERGYMAN" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_76" source="FEZZIK" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_77" source="FEZZIK" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_78" source="INIGO" target="VIZZINI" weight="8.571428571428571">
+        <attvalues>
+          <attvalue for="rawWeight" value="8.571428571428571"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_79" source="INIGO" target="HUMPERDINCK" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_80" source="INIGO" target="VOICE" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_81" source="INIGO" target="WESTLEY" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_82" source="INIGO" target="YELLIN" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_83" source="INIGO" target="MAN IN BLACK" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_84" source="INIGO" target="RUGEN" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_85" source="INIGO" target="ALBINO" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_86" source="INIGO" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_87" source="INIGO" target="ASSISTANT BRUTE" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_88" source="INIGO" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_89" source="INIGO" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_90" source="INIGO" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_91" source="INIGO" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_92" source="INIGO" target="IMPRESSIVE CLERGYMAN" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_93" source="INIGO" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_94" source="INIGO" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_95" source="WESTLEY" target="HUMPERDINCK" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_96" source="WESTLEY" target="RUGEN" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_97" source="WESTLEY" target="MAN IN BLACK" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_98" source="WESTLEY" target="VIZZINI" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_99" source="WESTLEY" target="ALBINO" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_100" source="WESTLEY" target="YELLIN" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_101" source="WESTLEY" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_102" source="WESTLEY" target="VOICE" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_103" source="WESTLEY" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_104" source="WESTLEY" target="ASSISTANT BRUTE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_105" source="WESTLEY" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_106" source="WESTLEY" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_107" source="WESTLEY" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_108" source="WESTLEY" target="IMPRESSIVE CLERGYMAN" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_109" source="WESTLEY" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_110" source="WESTLEY" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_111" source="HUMPERDINCK" target="RUGEN" weight="7.142857142857143">
+        <attvalues>
+          <attvalue for="rawWeight" value="7.142857142857143"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_112" source="HUMPERDINCK" target="VIZZINI" weight="5.714285714285714">
+        <attvalues>
+          <attvalue for="rawWeight" value="5.714285714285714"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_113" source="HUMPERDINCK" target="VOICE" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_114" source="HUMPERDINCK" target="MAN IN BLACK" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_115" source="HUMPERDINCK" target="ALBINO" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_116" source="HUMPERDINCK" target="YELLIN" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_117" source="HUMPERDINCK" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_118" source="HUMPERDINCK" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_119" source="HUMPERDINCK" target="ASSISTANT BRUTE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_120" source="HUMPERDINCK" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_121" source="HUMPERDINCK" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_122" source="HUMPERDINCK" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_123" source="HUMPERDINCK" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_124" source="HUMPERDINCK" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_125" source="HUMPERDINCK" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_126" source="VIZZINI" target="VOICE" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_127" source="VIZZINI" target="MAN IN BLACK" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_128" source="VIZZINI" target="RUGEN" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_129" source="VIZZINI" target="ALBINO" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_130" source="VIZZINI" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_131" source="VIZZINI" target="YELLIN" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_132" source="VIZZINI" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_133" source="VIZZINI" target="ASSISTANT BRUTE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_134" source="VIZZINI" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_135" source="VIZZINI" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_136" source="VIZZINI" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_137" source="VIZZINI" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_138" source="VIZZINI" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_139" source="VIZZINI" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_140" source="RUGEN" target="MAN IN BLACK" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_141" source="RUGEN" target="ALBINO" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_142" source="RUGEN" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_143" source="RUGEN" target="VOICE" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_144" source="RUGEN" target="YELLIN" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_145" source="RUGEN" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_146" source="RUGEN" target="ASSISTANT BRUTE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_147" source="RUGEN" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_148" source="RUGEN" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_149" source="RUGEN" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_150" source="RUGEN" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_151" source="RUGEN" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_152" source="RUGEN" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_153" source="VOICE" target="YELLIN" weight="4.285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="4.285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_154" source="VOICE" target="ALBINO" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_155" source="VOICE" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_156" source="VOICE" target="MAN IN BLACK" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_157" source="VOICE" target="ASSISTANT BRUTE" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_158" source="VOICE" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_159" source="VOICE" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_160" source="VOICE" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_161" source="VOICE" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_162" source="VOICE" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_163" source="VOICE" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_164" source="VOICE" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_165" source="YELLIN" target="ALBINO" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_166" source="YELLIN" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_167" source="YELLIN" target="MAN IN BLACK" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_168" source="YELLIN" target="ASSISTANT BRUTE" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_169" source="YELLIN" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_170" source="YELLIN" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_171" source="YELLIN" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_172" source="YELLIN" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_173" source="YELLIN" target="IMPRESSIVE CLERGYMAN" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_174" source="YELLIN" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_175" source="YELLIN" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_176" source="MAN IN BLACK" target="ALBINO" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_177" source="MAN IN BLACK" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_178" source="MAN IN BLACK" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_179" source="MAN IN BLACK" target="ASSISTANT BRUTE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_180" source="MAN IN BLACK" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_181" source="MAN IN BLACK" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_182" source="MAN IN BLACK" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_183" source="MAN IN BLACK" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_184" source="MAN IN BLACK" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_185" source="MAN IN BLACK" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_186" source="ALBINO" target="ANCIENT BOOER" weight="2.857142857142857">
+        <attvalues>
+          <attvalue for="rawWeight" value="2.857142857142857"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_187" source="ALBINO" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_188" source="ALBINO" target="ASSISTANT BRUTE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_189" source="ALBINO" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_190" source="ALBINO" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_191" source="ALBINO" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_192" source="ALBINO" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_193" source="ALBINO" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_194" source="ALBINO" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_195" source="ANCIENT BOOER" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_196" source="ANCIENT BOOER" target="ASSISTANT BRUTE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_197" source="ANCIENT BOOER" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_198" source="ANCIENT BOOER" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_199" source="ANCIENT BOOER" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_200" source="ANCIENT BOOER" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_201" source="ANCIENT BOOER" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_202" source="ANCIENT BOOER" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_203" source="ASSISTANT BRUTE" target="A WOMAN'S VOICE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_204" source="ASSISTANT BRUTE" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_205" source="ASSISTANT BRUTE" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_206" source="ASSISTANT BRUTE" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_207" source="ASSISTANT BRUTE" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_208" source="ASSISTANT BRUTE" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_209" source="ASSISTANT BRUTE" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_210" source="A WOMAN'S VOICE" target="LITTLE OLD GUY" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_211" source="A WOMAN'S VOICE" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_212" source="A WOMAN'S VOICE" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_213" source="A WOMAN'S VOICE" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_214" source="A WOMAN'S VOICE" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_215" source="A WOMAN'S VOICE" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_216" source="LITTLE OLD GUY" target="MIRACLE MAX" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_217" source="LITTLE OLD GUY" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_218" source="LITTLE OLD GUY" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_219" source="LITTLE OLD GUY" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_220" source="LITTLE OLD GUY" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_221" source="MIRACLE MAX" target="VALERIE" weight="1.4285714285714286">
+        <attvalues>
+          <attvalue for="rawWeight" value="1.4285714285714286"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_222" source="MIRACLE MAX" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_223" source="MIRACLE MAX" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_224" source="MIRACLE MAX" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_225" source="VALERIE" target="IMPRESSIVE CLERGYMAN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_226" source="VALERIE" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_227" source="VALERIE" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_228" source="IMPRESSIVE CLERGYMAN" target="KING" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_229" source="IMPRESSIVE CLERGYMAN" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+      <edge id="geid_30_230" source="KING" target="QUEEN" weight="0">
+        <attvalues>
+          <attvalue for="rawWeight" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
